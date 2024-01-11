@@ -1,4 +1,4 @@
-# OpenAI Whipser model in DJL
+# OpenAI Whisper model in DJL
 
 [Whisper](https://github.com/openai/whisper) is an open source model released by OpenAI.
 It can do speech recognition and also machine translation within a single model. In this tutorial,
